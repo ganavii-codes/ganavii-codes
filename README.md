@@ -1,6 +1,6 @@
  Hey, I'm Ganavi 👋
 
-🎓 First-year Computer Science student  
+🎓 First-year Computer Science student @ Jain University
 💻 Currently learning **Java**, Git/GitHub, and core CS fundamentals  
 
 
